@@ -16,14 +16,6 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">✨ Welcome to My GitHub ✨</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=안녕하세요!+컴정+졸업생+ojaan입니다; />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owlhwan103707&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owlhwan103707&layout=compact&theme=tokyonight" />
-</p>
 
 
 
