@@ -27,12 +27,31 @@ Here are some ideas to get you started:
 
 
 
+
+
 ### 🛠️ My Tech Stack
+
+<!-- Frontend & Web -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<!-- Programming Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logoColor=white)
+
+<!-- Frameworks & Platforms -->
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/SAS-007ABC?style=for-the-badge&logo=sas&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%20Programming-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<!-- Databases -->
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+te)
+
+
 
 
 
@@ -42,14 +61,6 @@ Here are some ideas to get you started:
 </p>
 
 
-
-
-
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400px" />
-</p>
 
 
 
