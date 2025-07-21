@@ -65,9 +65,6 @@ Here are some ideas to get you started:
 
 
 
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-🔗-green?style=for-the-badge)](https://your-portfolio.com)
-
-
 
 
 ### 📈 방문자 수
