@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **owlhwan103707/owlhwan103707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center">✨ Welcome to My GitHub ✨</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=안녕하세요!+보건학+대학원생+OOO입니다;프로그래밍도+잘합니다💻;건강+데이터를+사랑합니다❤️" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=사용자이름&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=사용자이름&layout=compact&theme=tokyonight" />
+</p>
