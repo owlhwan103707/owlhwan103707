@@ -44,6 +44,18 @@ Here are some ideas to get you started:
 
 
 
+
+
+### 📈 방문자 수
+![Visitors](https://komarev.com/ghpvc/?username=사용자이름&color=blue&style=flat-square)
+
+### 🔥 GitHub 활동 그래프
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=사용자이름&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400px" />
 </p>
