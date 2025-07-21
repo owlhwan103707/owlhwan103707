@@ -24,3 +24,12 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=owlhwan103707&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owlhwan103707&layout=compact&theme=tokyonight" />
 </p>
+
+
+
+### 🛠️ My Tech Stack
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-007ABC?style=for-the-badge&logo=sas&logoColor=white)
