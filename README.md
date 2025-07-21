@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">✨ Welcome to My GitHub ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=안녕하세요!+컴정+졸업생+ojaan입니다;프로그래밍도+잘합니다💻;건강+데이터를+사랑합니다❤️" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=안녕하세요!+컴정+졸업생+ojaan입니다 />
 </p>
 
 <p align="center">
@@ -50,6 +50,12 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+
+
+
+### 🧠 BOJ (Baekjoon Online Judge)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ojh2007)](https://solved.ac/profile/ojh2007)
 
 
 
